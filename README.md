@@ -2,6 +2,10 @@
 Code Refactor
 
 
+## Deployed Link
+https://sameerkhan99.github.io/module-1-challenge/ 
+
+
 ## Description 
 This is a simple webpage for a company called Horiseon that provides various digital marketing services. This README file provides an overview of the project and its components.
 
